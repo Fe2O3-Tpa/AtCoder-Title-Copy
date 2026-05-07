@@ -1,0 +1,8 @@
+{
+    "name": "AtCoder Title Copy",
+    "namespace": "https://github.com/Fe2O3-Tpa",
+    "version": "1.0.0",
+    "description": "AtCoderの問題名をAtCoderの問題名を「ABC123A - Five Antennas」のようなフォーマットでコピーします。",
+    "match": "https://atcoder.jp/contests/*/tasks/*",
+    "grant": "none"
+}
