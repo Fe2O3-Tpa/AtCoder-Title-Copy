@@ -16,12 +16,19 @@ AtCoder の問題ページで、問題タイトルを `ABC123A - Five Antennas` 
 
 - `https://atcoder.jp/contests/*/tasks/*`
 
-## 使い方（ユーザー向け）
+## インストール手順（ユーザー向け）
 
+### 自動インストール
+1. [GreasyFork](https://greasyfork.org/ja/scripts/577016-atcoder-title-copy)にアクセス
+2. インストールするボタンをクリック
+
+### 手動インストール
 1. `dist/actc.user.js` を Tampermonkey / Violentmonkey に読み込む
-2. AtCoder の問題ページを開く
-3. `Copy Title` ボタンを押す
-4. クリップボードにタイトル形式文字列がコピーされる
+
+## 使い方
+1. AtCoder の問題ページを開く
+2. `Copy Title` ボタンを押す
+3. クリップボードにタイトル形式文字列がコピーされる
 
 ## 開発環境
 
